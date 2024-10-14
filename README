@@ -35,7 +35,7 @@ To run this project, you only need a modern web browser such as:
 - Safari
 
 Instructions
-1.  Download the project : Clone the repository or download the project folder containing all HTML files.
+1.  Clone the project : Clone the repository or download the project folder containing all HTML files.
 2.  Open the Project : Open the `index.html` file in your web browser to view the results overview.
 3.  Navigate through Sections : From the results overview, you can navigate to individual sections like Facial Gestures, Body Gestures, etc., by clicking the corresponding links.
 
