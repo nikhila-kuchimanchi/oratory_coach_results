@@ -1,7 +1,3 @@
-Here’s a `README.md` file for your  Oratory Coach Results  project:
-
----
-
 Oratory Coach Results
 
 This project is a simple web-based feedback system for an oratory coach application. It provides individual feedback on various aspects of a speech, including facial gestures, body gestures, posture, sentiment and tone analysis, grammar evaluation, and disfluencies detection. Each section of feedback is displayed on separate pages, and a central results overview page provides navigation links to these individual reports.
@@ -45,8 +41,8 @@ Instructions
 
   Navigation Links
 
-| Section                   | Link from `index.html`                     |
-|----------------------------|--------------------------------------------|
+| Section                     | Link from `index.html`                     |
+|-----------------------------|--------------------------------------------|
 | Facial Gestures             | [Facial Gestures](facial-gestures.html)    |
 | Body Gestures               | [Body Gestures](body-gestures.html)        |
 | Posture                     | [Posture](posture.html)                    |
