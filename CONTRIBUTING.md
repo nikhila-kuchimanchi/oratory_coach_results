@@ -1,5 +1,5 @@
 # Participiant: How to Contribute
-1. ** Setup Your Codebase: **
+1. **Setup Your Codebase:**
 
 - Fork the repository (acmpesuecc/mutual-funds-manager) to your GitHub account
 - Clone your forked repository to your local machine using Git (make sure it's installed)
