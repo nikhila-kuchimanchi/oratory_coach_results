@@ -2,6 +2,8 @@
 
 This project is a simple web-based feedback system for an oratory coach application. It provides individual feedback on various aspects of a speech, including facial gestures, body gestures, posture, sentiment and tone analysis, grammar evaluation, and disfluencies detection. Each section of feedback is displayed on separate pages, and a central results overview page provides navigation links to these individual reports.
 
+**Note:** If you're a contributor please read CONTRIBUTING.md
+
 ## Features
 - **Facial Gestures Analysis:** Smile detection, eye contact analysis, and identification of other relevant facial expressions.
 - **Body Gestures Analysis:** Hand movements, head movements, and engagement level assessment based on body language.
